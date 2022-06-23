@@ -1,0 +1,2 @@
+# ignorar os logs do python __pycache__
+*.pyc
