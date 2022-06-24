@@ -16,3 +16,5 @@ if __name__ == "__main__":
         listaPhones.append(b)
 
     result = criaCsv(listaNames, listaPhones, quantidade)
+
+    print(result)
